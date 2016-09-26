@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /osjs/dist
+ln -s /mnt/sd/arduino/www/
+mv www sd
