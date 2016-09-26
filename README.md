@@ -5,6 +5,7 @@ Para configurar el uhttpd de tal forma que podamos acceder a los ficheros alojad
 desde el servidor web, es necesario ejecutar las siguientes instrucciones:
 
 wget --no-check-certificate https://raw.githubusercontent.com/PanamaHitek/lininoio_yun/master/uhttpd-conf
+
 sh uhttpd-conf
 rm uhttpd-conf
 
